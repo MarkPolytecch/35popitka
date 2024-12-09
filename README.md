@@ -108,9 +108,9 @@ label{
       <option value="female">Әйел</option>
     </select>
 
-  <button type="submit" class="tus"> <a href="MarkStore.html">Тіркелу</a></button>
+  <button type="submit" class="tus"> <a href="markstore.html">Тіркелу</a></button>
     <br> <br><br>
-  <button type="submit" class="tus"> <a href="MarkStore.html">Кіру</a></button>
+  <button type="submit" class="tus"> <a href="markstore.html">Кіру</a></button>
   </form>
 </div> 
 </body>
